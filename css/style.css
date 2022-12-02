@@ -459,9 +459,4 @@ ul {
 }
 
 
-@media (max-width: 390px) {
-  .header__content-title {
-    margin-right: 100px;
-  }
-  
-  }
+
