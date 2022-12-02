@@ -111,7 +111,7 @@ function comprarCarrito() {
         icon: 'success',
         title: '¡Compra Exitosa!',
         showConfirmButton: false,
-        timer: 2000
+        timer: 2800
       })
 
 }
